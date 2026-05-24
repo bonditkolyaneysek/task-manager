@@ -77,7 +77,7 @@ git clone https://github.com/bonditkolyaneysek/task-manager.git
 
 ## 👤 Author
 
-- GitHub: https://github.com/your-username
+- GitHub: [https://github.com/your-username](https://github.com/bonditkolyaneysek/task-manager.git)
 
 ---
 
