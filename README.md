@@ -6,7 +6,7 @@ It allows users to create, edit, delete, and filter tasks with a clean UI and lo
 ---
 
 ## 🚀 Live Demo
-👉 https://your-username.github.io/task-manager/
+👉 [https://your-username.github.io/task-manager/](https://github.com/bonditkolyaneysek/task-manager.git)
 
 ---
 
